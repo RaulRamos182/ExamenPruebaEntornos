@@ -5,6 +5,7 @@ public class GitModeloA {
 		System.out.println("Hola mundo");
 		System.out.println("Hola a tod@s");
 		System.out.println("Cambio en la principal");
+		System.out.println("Cambio de Rama1");
 
 	}
 
